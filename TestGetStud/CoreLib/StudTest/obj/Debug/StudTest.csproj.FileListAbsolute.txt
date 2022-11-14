@@ -1,0 +1,15 @@
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\StudTest\obj\Debug\StudTest.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\StudTest\obj\Debug\StudTest.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\StudTest\bin\Debug\StudTest.dll
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\StudTest\bin\Debug\StudTest.pdb
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\StudTest\bin\Debug\CoreLib.dll
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\StudTest\bin\Debug\Microsoft.Analytics.Interfaces.dll
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\StudTest\bin\Debug\Microsoft.Analytics.Interfaces.Streaming.dll
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\StudTest\bin\Debug\Microsoft.Analytics.Types.dll
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\StudTest\bin\Debug\Microsoft.Analytics.UnitTest.dll
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\StudTest\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\StudTest\bin\Debug\CoreLib.pdb
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\StudTest\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\StudTest\obj\Debug\StudTest.csproj.CopyComplete
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\StudTest\obj\Debug\StudTest.dll
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\StudTest\obj\Debug\StudTest.pdb

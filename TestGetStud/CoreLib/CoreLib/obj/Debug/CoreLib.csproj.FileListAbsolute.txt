@@ -1,0 +1,12 @@
+C:\Users\Администратор\source\repos\CoreLib\CoreLib\bin\Debug\CoreLib.dll
+C:\Users\Администратор\source\repos\CoreLib\CoreLib\bin\Debug\CoreLib.pdb
+C:\Users\Администратор\source\repos\CoreLib\CoreLib\obj\Debug\CoreLib.csproj.AssemblyReference.cache
+C:\Users\Администратор\source\repos\CoreLib\CoreLib\obj\Debug\CoreLib.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\source\repos\CoreLib\CoreLib\obj\Debug\CoreLib.dll
+C:\Users\Администратор\source\repos\CoreLib\CoreLib\obj\Debug\CoreLib.pdb
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\CoreLib\bin\Debug\CoreLib.dll
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\CoreLib\bin\Debug\CoreLib.pdb
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\CoreLib\obj\Debug\CoreLib.csproj.AssemblyReference.cache
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\CoreLib\obj\Debug\CoreLib.csproj.CoreCompileInputs.cache
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\CoreLib\obj\Debug\CoreLib.dll
+C:\Users\Администратор\Desktop\TestLibrary\CoreLib\CoreLib\obj\Debug\CoreLib.pdb
