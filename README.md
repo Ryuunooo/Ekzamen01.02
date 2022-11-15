@@ -32,7 +32,7 @@
 
 
 <h2> Результат создания библиотеки классов </h2>
-![](https://github.com/Ryuunooo/Ekzamen01.02/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG)
+![alt text](https://github.com/Ryuunooo/Ekzamen01.02/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA1.PNG)
 
 <h2> Тест, и результат проведения unit-test </h2>
-![](https://github.com/Ryuunooo/Ekzamen01.02/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
+![alt text](https://github.com/Ryuunooo/Ekzamen01.02/blob/main/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA.PNG)
